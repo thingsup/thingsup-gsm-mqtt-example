@@ -1,6 +1,6 @@
 # Thingsup : GSM-MQTT-Example
 
-This example demonstrates Thingsup MQTT Service with ESP32.
+This example demonstrates Thingsup MQTT Service with GSM Modules.
 
 ## Installation
 
